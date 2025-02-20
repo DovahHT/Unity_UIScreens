@@ -1,0 +1,11 @@
+{
+  "name": "com.dovah.uiscreens",
+  "version": "1.0.0",
+  "displayName": "UI Screen Module",
+  "description": "A module for creating and managing UI screens",
+  "unity": "2022.3",
+  "author": {
+    "name": "Hossein Dovah",
+    "email": "td.hossein@gmail.com"
+  }
+}
